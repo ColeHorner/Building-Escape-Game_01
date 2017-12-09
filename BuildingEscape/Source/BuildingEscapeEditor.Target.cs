@@ -3,8 +3,6 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-//heellloooooooooooooo
-
 public class BuildingEscapeEditorTarget : TargetRules
 {
 	public BuildingEscapeEditorTarget(TargetInfo Target) : base(Target)
