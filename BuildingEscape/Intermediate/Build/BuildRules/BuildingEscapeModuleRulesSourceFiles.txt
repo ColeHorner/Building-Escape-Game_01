@@ -1,0 +1,3 @@
+C:\Users\ColeH\source\repos\Section_03\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\Users\ColeH\source\repos\Section_03\BuildingEscape\Source\BuildingEscape.Target.cs
+C:\Users\ColeH\source\repos\Section_03\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
